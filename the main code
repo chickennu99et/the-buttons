@@ -3,7 +3,21 @@
 <h1>super idol</h1>
 <button onclick="myfunction()">DO IT</button>
 <script>
-funtion myfuntion() {
+funtion myfunction() {
 alert(Super Idol的笑容都没你的甜八月正午的阳光都没你耀眼热爱105°C的你滴滴清纯的蒸馏水);
 }
 </script>
+</body>
+</html>
+
+<html>
+<body>
+<h2>memez</h2>
+<button onclick="lol1()">click for memes</button>
+<script>
+function lol1() {
+alert(never gonna give you up);
+}
+</script>
+</body>
+</html>
