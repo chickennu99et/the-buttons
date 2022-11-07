@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>super idol</h1>
+<h2>super idol</h2>
 <button onclick="myfunction()">DO IT</button>
 <script>
 function myfunction() {
@@ -17,6 +17,18 @@ alert("Super Idol的笑容都没你的甜八月正午的阳光都没你耀眼热
 <script>
 function lol1() {
 alert("never gonna give you up")
+}
+</script>
+</body>
+</html>
+
+<html>
+<body>
+<h2>more memez</h2>
+<botton onclick="lol2()">dont press</button>
+<script>
+function lol2() {
+alert("DEEZ NUTS HA got emm. told ya so")
 }
 </script>
 </body>
