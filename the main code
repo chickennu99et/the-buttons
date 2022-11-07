@@ -25,7 +25,7 @@ alert("never gonna give you up")
 <html>
 <body>
 <h2>more memez</h2>
-<botton onclick="lol2()">dont press</button>
+<button onclick="lol2()">dont press</button>
 <script>
 function lol2() {
 alert("DEEZ NUTS HA got emm. told ya so")
