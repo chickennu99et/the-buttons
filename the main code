@@ -33,3 +33,15 @@ alert("DEEZ NUTS HA got emm. told ya so")
 </script>
 </body>
 </html>
+
+<html>
+<body>
+<h2>im out of ideas</h2>
+<button onclick="getrek()">what i do when board</button>
+<script>
+function getrek() {
+alert("ur mom")
+}
+</script>
+</body>
+</html>
